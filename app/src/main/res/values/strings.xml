@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exam Prepeare</string>
+    <string name="count_buyer">20</string>
+    <string name="store1">Store1</string>
+    <string name="store2">Store2</string>
+    <string name="store3">Store3</string>
+    <string name="store4">Store4</string>
+    <string name="go_to_store">подошёл</string>
+    <string name="select_product">выбирает товар</string>
+    <string name="pay_products">оплачивает</string>
+    <string name="out_store">отошёл от автомата</string>
+</resources>
